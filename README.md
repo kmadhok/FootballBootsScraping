@@ -25,4 +25,4 @@ The fourth step after having our finished csv is to analyze it and see if there 
 
 Scraped: https://www.footballbootsdb.com/
 
-Player Statistics: https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-player-data?select=player_playingtime.csv
+Player Statistics: https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-player-data
